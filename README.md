@@ -3,5 +3,16 @@ New York City TLC is an agency responsible for licensing and regulating New York
 
 **Client:** NYC TLC
 **Consultant:** Automatidata
+**Data source:** [kaggle](https://www.kaggle.com/datasets/engenme/2017-yellow-taxi-trip-data)
 
-[Data source](https://www.kaggle.com/datasets/engenme/2017-yellow-taxi-trip-data)
+## Dataset
+The data provided was from 2017 only and contains 22699 rows and 18 columns
+
+## Project task
+- Load data
+- Data cleaning and EDA
+- Hypothesis testing
+- Building a regression model
+- Building a machine learning model
+
+Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
