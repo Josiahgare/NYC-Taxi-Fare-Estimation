@@ -1,12 +1,14 @@
 # New York City Taxi and Limousine Commission (TLC)
 New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has partnered with Automatidata to develop a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered.
 
-**Client:** NYC TLC
+**Client:** New York City Taxi and Limousine Commission
+
 **Consultant:** Automatidata
+
 **Data source:** [kaggle](https://www.kaggle.com/datasets/engenme/2017-yellow-taxi-trip-data)
 
 ## Dataset
-The data provided was from 2017 only and contains 22699 rows and 18 columns
+The data provided was from 2017 only and contains 22699 rows and 18 columns.
 
 ## Project task
 - Load data
