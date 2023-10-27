@@ -1,5 +1,5 @@
 # New York City Taxi and Limousine Commission (TLC)
-New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has partnered with Automatidata to develop a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered.
+New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has partnered with Automatidata to develop a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered. Also, to develop a machine learning model that predict which passenger will be a generous tipper.
 
 **Client:** New York City Taxi and Limousine Commission
 
